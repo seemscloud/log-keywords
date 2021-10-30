@@ -1,1 +1,26 @@
-# log-keywords
+```bash
+err
+crit
+fail
+warn
+alert
+emerg
+denied
+deny
+unread
+unreach
+miss
+problem
+block
+terminat
+exclude
+reject
+inject
+eject
+remove
+purge
+clean
+clear
+close
+break
+```
